@@ -1,0 +1,14 @@
+# https://thelazyone.github.io/lesnack/
+title = "Lesnack"
+description = "A menu of recipes"
+base_url = "https://thelazyone.github.io/lesnack/"
+theme = "walnuts-n-zola"
+compile_sass = false
+minify_html = true
+default_language = "en"
+
+[markdown]
+smart_punctuation = true
+
+[extra]
+dishes_of_the_day_count = 6
